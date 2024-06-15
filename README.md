@@ -7,7 +7,7 @@ The project aims to control/monitor two accelerometer-gyroscope sensors using an
 
 (An accelerometer measures the linear acceleration of movement, and a gyroscope measures the angular velocity of rotation).
 
-* Design: 
+* Design: (4-layer PCB board)
 The main board contains:
 - Blues Swan Feather-board: a low-cost, embeddable STM32L4 microcontroller designed to accelerate the development and deployment of battery-powered IoT solutions.
 - Adafruit Industries 2090: a capacitive LCD touchscreen (2.8 TFT LCD w/MicroSD Socket).
